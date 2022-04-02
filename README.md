@@ -1,2 +1,2 @@
 # freetube-armhf-builds
-https://github.com/FreeTubeApp/FreeTube
+Source code and arm64 builds at https://github.com/FreeTubeApp/FreeTube
