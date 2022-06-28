@@ -6,6 +6,7 @@ Finished armhf builds are available on the [Releases](https://github.com/Jai-JAP
 ## To Compile FreeTube on armv7l
 ```
 sudo apt inatall -y curl
+#Install Node.js 16
 curl -fsSL https://deb.nodesource.com/setup_16.x | sudo -E bash -
 sudo apt install -y nodejs libarchive-tools ruby jq ruby build-essentials git
 sudo gem install fpm --no-document
