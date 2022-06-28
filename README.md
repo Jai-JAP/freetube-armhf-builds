@@ -1,6 +1,8 @@
 # freetube-armhf-builds
 Source code and arm64 builds available at https://github.com/FreeTubeApp/FreeTube
 
+Finished armhf builds are available on the [Releases](https://github.com/Jai-JAP/freetube-armhf-builds/releases) page.
+
 ## To Compile FreeTube on armv7l
 ```
 sudo apt inatall -y curl
